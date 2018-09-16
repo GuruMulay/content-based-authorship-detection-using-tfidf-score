@@ -9,4 +9,4 @@ Multiple Mappers and Reducers are chained together (called *job* *chaining*) tha
 
 
 ## Toy Example
-**authorAttrVect_toy_dataset_illustration**: Contains a very small toy dataset fed a input to the system and the outputs at every map reduce step of **authorAttrVect** program. The final output is *mr4aav12.txt* that contains TF-IDF scores in the final column.
+**authorAttrVect_toy_dataset_illustration**: Contains a very small toy dataset fed as input to the system and the outputs at every map reduce step of **authorAttrVect** program. The final output is *mr4aav12.txt* that contains TF-IDF scores in the final column.
