@@ -1,0 +1,4 @@
+$HADOOP_HOME/bin/hadoop jar your.jar <yourMainClass> <arguments>
+
+
+$HADOOP_HOME/bin/hadoop jar ~/workspace/authorAttrVect.jar /dataLoc1/gutenberg /out1
