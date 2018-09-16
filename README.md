@@ -6,3 +6,7 @@ Read more details on [this page](https://gurumulay.github.io/datascience/datasci
 **cosineSimilarity**: Algorithms to fins cosine similarity metric between a document with unknown authorship and authors from gutenberg corpus (from earlier step). We use **combiners** for this step.
 
 Multiple Mappers and Reducers are chained together (called *job* *chaining*) that produce intermediate results and then final results based on those intermediate results.
+
+
+## Toy Example
+**authorAttrVect_toy_dataset_illustration**: Contains a very small toy dataset fed a input to the system and the outputs at every map reduce step of **authorAttrVect** program. The final output is *mr4aav12.txt* that contains TF-IDF scores in the final column.
